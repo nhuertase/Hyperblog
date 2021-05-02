@@ -3,5 +3,23 @@ body
     color: darkblue;
     text-align: center;
     font-family: "Helvetica";
+    font-size: 16px;
+    margin: o;
+    padding: 0;
+ }
+
+#container
+{
+    width: 70%;
+    padding: 1em;
+    text-align: left;
+    border: 1pX solid rgb(82, 80, 80);
+    margin: 0 auto;
+}
+
+#container h1
+{
+    font-size: 20px;
+    
 
 }
